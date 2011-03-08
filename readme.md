@@ -1,6 +1,6 @@
 Link zur Website
 ----------------
 
-Sandorkans Depot
-http://severe-river-762.heroku.com/products
+[Sandorkans Depot][depotLink]
+[depotLink]: http://severe-river-762.heroku.com/products
 
