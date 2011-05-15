@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110515142102) do
+ActiveRecord::Schema.define(:version => 20110515143301) do
 
   create_table "carts", :force => true do |t|
     t.datetime "created_at"
